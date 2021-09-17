@@ -1,5 +1,5 @@
 <!-- ****************************************** BIO ******************************************** -->
-<h4>Olá, meu nome é Alessandro e atualmente tenho 19 anos, estou estudando desenvolvimento web front-end e aqui no Github coloco alguns projetos pessoais que faço por questões de estudo e entretenimento. </h4>
+<h4>Olá, meu nome é Alessandro e atualmente tenho 19 anos. Estou estudando desenvolvimento web front-end e aqui no Github coloco alguns projetos pessoais que faço por questões de estudo e entretenimento. </h4>
 
 <!-- ****************************************** STATS ******************************************** -->
 <div>
