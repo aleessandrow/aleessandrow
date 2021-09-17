@@ -1,16 +1,23 @@
-### Hi there 👋
+<!-- ****************************************** BIO ******************************************** -->
+<h4>Olá, meu nome é Alessandro e atualmente tenho 19 anos, estou estudando desenvolvimento web front-end e aqui no Github coloco alguns projetos pessoais que faço por questões de estudo e entretenimento. </h4>
 
-<!--
-**aleessandrow/aleessandrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ****************************************** STATS ******************************************** -->
+<div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aleessandrow&show_icons=true&theme=dracula" alt="aleessandrow github stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleessandrow&layout=compact&show_icons=true&theme=dracula"/>
+</div>
+  
+<!-- ****************************************** TOOLS & LANGUAGES ******************************************** -->
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="right" alt="gif" height="145" width="145" src="https://cdn.discordapp.com/attachments/557373051705229326/888543935813804063/Webp.net-gifmaker.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+ 
+<div>
+  <a href = "mailto:alessandro.lemons@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </div>
