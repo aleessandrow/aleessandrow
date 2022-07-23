@@ -1,6 +1,6 @@
 <!-- ****************************************** BIO ******************************************** -->
 <h4>
-  Olá, meu nome é Alessandro e atualmente tenho 19 anos. Coloco aqui no Github alguns projetos pessoais que faço por questões de estudo e entretenimento. 
+  Olá, meu nome é Alessandro e atualmente tenho 20 anos. Coloco aqui no Github alguns projetos pessoais que faço por questões de estudo e entretenimento. 
 </h4>
 
 <!-- ****************************************** STATS ******************************************** -->
