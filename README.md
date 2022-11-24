@@ -1,6 +1,6 @@
 <!-- ****************************************** BIO ******************************************** -->
 <h4>
-  Olá, meu nome é Alessandro, moro na cidade de Pelotas e atualmente estou cursando Sistemas para Internet. Coloco aqui no Github alguns projetos pessoais que faço por questões de estudo e entretenimento.
+  Meu nome é Alessandro, moro na cidade de Pelotas e atualmente estou cursando Sistemas para Internet pelo IFSUL. Coloco aqui no Github alguns projetos e exercícios que faço por questões de entretenimento e estudo.
 </h4>
 
 <!-- ****************************************** STATS ******************************************** -->
