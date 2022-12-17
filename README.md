@@ -9,8 +9,8 @@
 <!-- ****************************************** STATS ******************************************** -->
 <h2 align="center"> My Github Stats<img align="right" src="https://thumbs.gfycat.com/GrouchyElegantAlbacoretuna-max-1mb.gif" width="60"></h2>
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alessandrolemons&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=alessandrolemons&layout=compact&show_icons=true&theme=radical"/>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=alessandrolemons&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=alessandrolemons&layout=compact&show_icons=true&theme=radical"/>
 
   
 <!-- ****************************************** TOOLS ******************************************** -->
