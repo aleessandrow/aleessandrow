@@ -1,5 +1,5 @@
 <!-- ****************************************** BIO ******************************************** -->
-<h2 align="center">Hey there, I'm Alessandro a developer in making👋🏼</h2>
+<h2 align="center">Hey there, I'm Alessandro, a developer in making👋🏼</h2>
 
 <h5>
   💻| Atualmente cursando Sistemas para Internet pelo IFSUL<br>
