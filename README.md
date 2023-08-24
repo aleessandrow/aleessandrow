@@ -7,7 +7,7 @@
 </h5>
 
 <!-- ****************************************** STATS ******************************************** -->
-<h2 align="center"> My Github Stats<img align="right" src="https://thumbs.gfycat.com/GrouchyElegantAlbacoretuna-max-1mb.gif" width="60"></h2>
+<!-- <h2 align="center"> My Github Stats<img align="right" src="https://thumbs.gfycat.com/GrouchyElegantAlbacoretuna-max-1mb.gif" width="60"></h2> -->
   
 <p align="center"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=lemonsalessandro&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=27"/>
@@ -27,7 +27,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-<img align="right" width="50" src="https://media3.giphy.com/media/wvQIqJyNBOCjK/giphy.gif"/>
+<!-- <img align="right" width="50" src="https://media3.giphy.com/media/wvQIqJyNBOCjK/giphy.gif"/> -->
 
 <div>
   <a href="https://www.linkedin.com/in/alessandro-lemons-8b6190151/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" /></a>
