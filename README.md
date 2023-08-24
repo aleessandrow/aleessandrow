@@ -2,7 +2,7 @@
 <h2 align="center">Hey there, I'm Alessandro, a developer in making👋🏼</h2>
 
 <h5>
-  💻| Atualmente cursando Sistemas para Internet pelo IFSUL<br>
+  💻| Cursando Sistemas para Internet pelo IFSUL<br>
   📍| Pelotas, RS <br>
 </h5>
 
