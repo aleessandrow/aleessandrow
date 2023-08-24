@@ -10,8 +10,8 @@
 <h2 align="center"> My Github Stats<img align="right" src="https://thumbs.gfycat.com/GrouchyElegantAlbacoretuna-max-1mb.gif" width="60"></h2>
   
 <p align="center"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=alessandrolemons&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=27"/>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrolemons&layout=compact&langs_count=7&theme=radical">
+<img  src="https://github-readme-stats.vercel.app/api?username=lemonsalessandro&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=27"/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemonsalessandro&layout=compact&langs_count=7&theme=radical">
 </p>
 <br>
 
